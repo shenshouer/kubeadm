@@ -1,0 +1,6 @@
+imagePrefix        : "shenshouer"
+etcdVersion        : "2.2.5"
+kubeDNSVersion     : "1.9"
+dnsmasqVersion     : "1.4"
+exechealthzVersion : "1.2"
+pauseVersion       : "3.0"
